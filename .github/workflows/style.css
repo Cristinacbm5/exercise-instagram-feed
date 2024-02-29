@@ -1,0 +1,149 @@
+body{
+    background: grey;
+    margin: 0;
+}
+div{ 
+    box-sizing: border-box;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post image{
+    width: 100%;
+    display: inline-block;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.container{
+    width: 600px;
+    margin:auto;
+}
+
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post image{
+    width: 100%;
+    display: inline-block;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.container{
+    width: 600px;
+    margin:auto;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post image{
+    width: 100%;
+    display: inline-block;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+div.container{
+    width: 600px;
+    margin:auto;
+}
+header{
+    background: white;
+    padding: 10px;
+}
+header h1{
+    margin: 0;
+}
+div.post{
+    background: white;
+    margin-top: 10px;
+}
+div.post image{
+    width: 100%;
+    display: inline-block;
+}
+div.post .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post .post-header div:last-child{
+    display: inline-block;
+    width: 20%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.container{
+    width: 600px;
+    margin:auto;
+}
